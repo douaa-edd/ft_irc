@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by deddaidi and schernan.*
-
 # ft_irc — IRC Server in C++98
 
 ## Description
