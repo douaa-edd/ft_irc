@@ -188,9 +188,3 @@ Supported commands:
 
 ---
 
-# AI Usage
-
-GitHub Copilot was used during this project for:
-
-- Helping understand some technical concepts.
-- Assisting in writing the README.
